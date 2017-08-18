@@ -9,7 +9,7 @@ My notes on back-end development based on Database System Concepts, 6th edition,
 
 ###2, From ER Diagram to SQL script
 
-The material I wrote for the professor of Database Management when I worked as a teaching assistant. It consists of very basic concepts and illustrations of how to convert a conceptual ER diagram to actual DDL and DML scripts in SQL, assited by MySQL workbench. It is naive but applied knowledge of back-end development for students.
+The material I wrote for the professor of Database Management when I worked as a teaching assistant. It consists of very basic concepts and illustrations of how to convert a conceptual ER diagram to actual DDL scripts in SQL, assited by MySQL workbench. It is naive but applied knowledge of back-end development for students.
 
 ###3, Algorithm Notes
 
